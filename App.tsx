@@ -19,10 +19,8 @@ import firebase from '@react-native-firebase/app';
 import messaging from '@react-native-firebase/messaging';
 
 messaging().setBackgroundMessageHandler(async remoteMessage => {
-  console.log('out of main!', remoteMessage);
+  console.log('inside of app!', remoteMessage);
 });
-
-
 
 const App = () => {
 

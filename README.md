@@ -1,3 +1,15 @@
+# pushNotification icon change
+
+I found solution by adding below code in AndroidManifest.xml before application closing tag:
+<meta-data android:name="com.google.firebase.messaging.default_notification_icon" android:resource="@drawable/notification_icon" /> 
+
+Before generate icon please keet it in mind logo should have transparent background
+
+Generate notification icons link(http://romannurik.github.io/AndroidAssetStudio/icons-notification.html#source.type=clipart&source.clipart=ac_unit&source.space.trim=1&source.space.pad=0&name=ic_stat_ac_unit) of all sizes and put the icon name notification_icon and extract all drawable-density/ folders inside res folder
+
+https://rnfirebase.io/messaging/usage#notification-color
+
+
 # pushNotification
 
 #Packeges to be installed (follow the order)
