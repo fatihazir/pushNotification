@@ -9,7 +9,7 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <!-- <meta-data android:name="com.google.firebase.messaging.default_notification_color" android:resource="@color/my_custom_color" tools:replace="android:resource" /> -->
+    <meta-data android:name="com.google.firebase.messaging.default_notification_color" android:resource="@color/my_custom_color" tools:replace="android:resource" />
     <meta-data android:name="com.google.firebase.messaging.default_notification_icon" android:resource="@drawable/notification_icon" />
   </application>
 </manifest>
