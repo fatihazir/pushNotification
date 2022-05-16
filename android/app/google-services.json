@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "390847777282",
+    "project_id": "pushnotification-cloud",
+    "storage_bucket": "pushnotification-cloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390847777282:android:1ef8e8f04957798a64f51b",
+        "android_client_info": {
+          "package_name": "com.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390847777282-orbvbsf08srp7sbno0u0ueeu23esqkcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pushnotification",
+            "certificate_hash": "ee69edd7c0c9aa872107e46da33207c6debf14c9"
+          }
+        },
+        {
+          "client_id": "390847777282-d0gb1g1runj9tlb8dipts6r7ujrd2unc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVJy3u2yxJDODxfkYxBzecRQ4aCbcuNds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390847777282-d0gb1g1runj9tlb8dipts6r7ujrd2unc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

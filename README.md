@@ -53,3 +53,5 @@ https://rnfirebase.io/
   
   Then add necessary code lines from both npm page and document page(https://rnfirebase.io/)
 
+  Install @react-native-firebase/messaging
+
