@@ -1,3 +1,5 @@
+# React native - Google cloud push notification implementation for either the app is currently running or opening the app with notification. Also mentioned custom notification icon 
+
 # pushNotification icon change
 
 I found solution by adding below code in AndroidManifest.xml before application closing tag:
